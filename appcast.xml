@@ -9,7 +9,7 @@
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/madebyjamstudios/ninnja-timer-releases/releases/download/v1.0.1/Ninja.Timer-1.0.1-21-macOS-Apple-Silicon.dmg" sparkle:edSignature="NRC/tVPKsKjRdKrzIsZDc+Egwln+qBEJvzOWC3MVE65bE+dp7LAraaCaW3/t/L0+VOzyuyq/2c2Rs1LoUNcRDg==" length="3261016" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mbjstudios/ninnja-timer-releases/releases/download/v1.0.1/Ninja.Timer-1.0.1-21-macOS-Apple-Silicon.dmg" sparkle:edSignature="NRC/tVPKsKjRdKrzIsZDc+Egwln+qBEJvzOWC3MVE65bE+dp7LAraaCaW3/t/L0+VOzyuyq/2c2Rs1LoUNcRDg==" length="3261016" type="application/octet-stream"/>
         </item>
         <item>
             <title>Ninnja Timer 1.0.0</title>
@@ -17,7 +17,7 @@
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/madebyjamstudios/ninnja-timer-releases/releases/download/v1.0.0/Ninja.Timer-1.0.0-20-macOS-Apple-Silicon.dmg" sparkle:edSignature="pZxRkWcA4jI8y9zEdmaob+8GoH0r3+C6At5Z9Scl7fCbrIUhp8UyYrpbUqKI7NQr2C+5cJhUyEG77GIQTGUUBw==" length="3260971" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mbjstudios/ninnja-timer-releases/releases/download/v1.0.0/Ninja.Timer-1.0.0-20-macOS-Apple-Silicon.dmg" sparkle:edSignature="pZxRkWcA4jI8y9zEdmaob+8GoH0r3+C6At5Z9Scl7fCbrIUhp8UyYrpbUqKI7NQr2C+5cJhUyEG77GIQTGUUBw==" length="3260971" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
